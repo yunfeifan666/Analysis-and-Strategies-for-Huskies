@@ -26,5 +26,7 @@ game and the Passing Strategy is the least important indicator. And within each
 indicator, similar passing number for each player, relatively small average time to
 generate a passing event, facing the relatively weak team make the major contribution
 to win the game.
+
+
 Keywords: Team Strategies; Ball Passing Network; Analytic Hierarchy Process
 (AHP)
